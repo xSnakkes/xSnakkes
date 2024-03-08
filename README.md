@@ -1,4 +1,3 @@
-<div align="center">
 
 ## 👋 Hi, I'm Daniil Petrushenko! 🚀
 
@@ -6,21 +5,24 @@ Passionate Full Stack Developer based in Kyiv, Ukraine. Currently contributing t
 
 ### 🚀 Experience
 
-- 💼 **Full-stack Developer at Grivallure**
+ 💼 **Full-stack Developer at Grivallure**
+ 💼 **Full-stack Developer at Advertech**
+ 💼 **Frontend Developer at Interactivity**
+ 💼 **Freelance Frontend Developer**
 
 ### 🛠️ Skills
 
-- 💻 JavaScript | TypeScript | React | Next.js
-- ☁️ Firebase | Express.js
+ 💻 JavaScript | TypeScript | React | Next.js
+ ☁️ Firebase | Express.js
 
-- 💻 Python | Django | Django REST Framework
+ 💻 Python | Django | Django REST Framework
 
-- 💻 PHP | Laravel
+ 💻 PHP | Laravel
 
-- ☁️ AWS Lambda | MongoDB | PostgreSQL
+ ☁️ AWS Lambda | MongoDB | PostgreSQL
 
-- 🎨 HTML | CSS | WordPress
-- 🚀 SEO Techniques
+ 🎨 HTML | CSS | WordPress
+ 🚀 SEO Techniques
 
 ### 🌐 Connect with Me
 
@@ -29,5 +31,3 @@ Passionate Full Stack Developer based in Kyiv, Ukraine. Currently contributing t
 [![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=icloud&logoColor=white)](mailto:danil.petrushenko@icloud.com)
 
 Let's build something cool together! 🚀
-
-</div>
