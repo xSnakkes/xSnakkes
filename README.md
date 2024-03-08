@@ -1,31 +1,33 @@
-### 👋 Hello, I'm [Your Name]!
+<div align="center">
 
-I'm a passionate Full Stack Developer based in Kyiv, Ukraine, with a strong foundation in building robust and scalable solutions. Currently, I'm contributing to [Current Company] as a Full-stack Developer, where I specialize in technologies like React, JavaScript, TypeScript, Express.js, Django, and Firebase.
+## 👋 Hi, I'm Daniil Petrushenko! 🚀
 
-#### 🚀 Experience
+Passionate Full Stack Developer based in Kyiv, Ukraine. Currently contributing to Grivallure 🛠️
 
-- **Full-stack Developer at [Current Company]**
-  - Joining in Feb 2024, I'm actively involved in designing and implementing innovative solutions that drive the company's technological initiatives. My skill set includes AWS Lambda, MongoDB, PostgreSQL, Next.js, and more.
-  
-- **Full-stack Developer at Advertech**
-  - Worked from Jun 2023 to Feb 2024, contributing to a dynamic office environment. I was responsible for the entire software stack, collaborating with cross-functional teams to ensure seamless integration and optimal performance.
+### 🚀 Experience
 
-- **Frontend Developer at Interactivity**
-  - Contributed remotely from Sep 2022 to May 2023, creating visually appealing and interactive web interfaces. My expertise includes WordPress, HTML, CSS, React, and JavaScript.
+- 💼 **Full-stack Developer at Grivallure**
 
-- **Freelance Frontend Developer**
-  - Worked independently from Jan 2022 to Jul 2022, gaining a diverse set of skills. I specialized in building and optimizing websites using HTML, CSS, React, and JavaScript, with additional expertise in SEO techniques and Python.
+### 🛠️ Skills
 
-#### 🛠️ Skills
+- 💻 JavaScript | TypeScript | React | Next.js
+- ☁️ Firebase | Express.js
 
-- React | JavaScript | TypeScript | Express.js | Django | Firebase
-- AWS Lambda | MongoDB | PostgreSQL | Next.js | Laravel | PHP | Python
-- HTML | CSS | WordPress | SEO Techniques
+- 💻 Python | Django | Django REST Framework
 
-#### 🌐 Connect with Me
+- 💻 PHP | Laravel
 
-- [LinkedIn](your-linkedin-profile)
-- [Twitter](your-twitter-profile)
-- [Portfolio Website](your-portfolio-website)
+- ☁️ AWS Lambda | MongoDB | PostgreSQL
 
-Feel free to explore my pinned repositories for a glimpse of my work. Let's collaborate and create something amazing together! 🚀
+- 🎨 HTML | CSS | WordPress
+- 🚀 SEO Techniques
+
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniil-petrushenko-647a8a283/)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=telegram&logoColor=white)](https://t.me/xSnakkes)
+[![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=icloud&logoColor=white)](mailto:danil.petrushenko@icloud.com)
+
+Let's build something cool together! 🚀
+
+</div>
