@@ -1,7 +1,7 @@
 
 ## 👋 Hi, I'm Daniil Petrushenko! 🚀
 
-Passionate Full Stack Developer based in Kyiv, Ukraine. Currently contributing to Grivallure 🛠️
+Passionate Full Stack Developer based in Kyiv, Ukraine. Currently contributing to [Grivallure](https://grivallure.com/) 🛠️
 
 ### 🚀 Experience
 
@@ -13,13 +13,16 @@ Passionate Full Stack Developer based in Kyiv, Ukraine. Currently contributing t
 ### 🛠️ Skills
 
  💻 JavaScript | TypeScript | React | Next.js
- ☁️ Firebase | Express.js
+ 🔌 Firebase | Express.js
 
- 💻 Python | Django | Django REST Framework
+ 💻 Python | Django
+ 🔌 Django REST Framework
 
  💻 PHP | Laravel
 
- ☁️ AWS Lambda | MongoDB | PostgreSQL
+ 💾 MongoDB | PostgreSQL
+
+ ☁️ AWS Lambda | AWS Amplify
 
  🎨 HTML | CSS | WordPress
  🚀 SEO Techniques
