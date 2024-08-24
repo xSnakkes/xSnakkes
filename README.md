@@ -26,7 +26,7 @@ Passionate Full Stack Developer based in Kyiv, Ukraine. Currently contributing t
 
  🔌Laravel
 
- 💾 MongoDB | PostgreSQL
+ 💾 MongoDB | PostgreSQL | Redis
 
  ☁️ AWS Lambda | AWS Amplify |  Google Cloud Platform | Vercel
 
