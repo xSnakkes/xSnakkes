@@ -12,15 +12,19 @@ Passionate Full Stack Developer based in Kyiv, Ukraine. Currently contributing t
 
 ### 🛠️ Skills
 
- 💻 JavaScript | TypeScript | React | Next.js
+ 💻 JavaScript | TypeScript
+ 
+ 🎨 React | Next.js 
+ 
+ 🔌 NestJS | Express.js | Firebase
 
-🔌 NestJS | Express.js | Firebase
+ 💻 Python
 
- 💻 Python | Django
+ 🔌 Django | Django REST Framework
 
- 🔌 Django REST Framework
+ 💻 PHP 
 
- 💻 PHP | Laravel
+ 🔌Laravel
 
  💾 MongoDB | PostgreSQL
 
