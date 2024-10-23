@@ -6,9 +6,9 @@ Passionate Full Stack Developer based in Kyiv, Ukraine. Currently contributing t
 
 ### 🚀 Experience
 
- 💼 **Full-stack Developer at Grivallure**
- 💼 **Full-stack Developer at Advertech**
- 💼 **Frontend Developer at Interactivity**
+ 💼 **Full-stack Developer at Grivallure**<br/>
+ 💼 **Full-stack Developer at Advertech**<br/>
+ 💼 **Frontend Developer at Interactivity**<br/>
  💼 **Freelance Frontend Developer**
 
 # 💻 Tech Stack:
@@ -20,7 +20,7 @@ Passionate Full Stack Developer based in Kyiv, Ukraine. Currently contributing t
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=telegram&logoColor=white)](https://t.me/xSnakkes)
 [![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=icloud&logoColor=white)](mailto:danil.petrushenko@icloud.com)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/809549989416009728)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)
 
 Let's build something cool together! 🚀
 
