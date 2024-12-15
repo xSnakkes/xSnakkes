@@ -27,4 +27,3 @@ Let's build something cool together! 🚀
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=xSnakkes&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xSnakkes&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-profile-trophy.vercel.app/?username=xSnakkes&theme=radical&no-frame=false&no-bg=false&margin-w=4)
